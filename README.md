@@ -150,8 +150,8 @@ Atualmente, estou explorando as diversas possibilidades do desenvolvimento web, 
 />
 <img 
   align="left"
-  alt="GitHub Stats"
+  alt="Tecnologias Mais Usadas"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-star525&show_icons=true&theme=blue_navy&include_all_commits=true&custom_title=Tecnologias"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-star525&show_icons=true&theme=blue_navy&include_all_commits=true&custom_title=Tecnologias&layout=compact"
 />
