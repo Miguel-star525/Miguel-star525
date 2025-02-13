@@ -141,5 +141,17 @@ Atualmente, estou explorando as diversas possibilidades do desenvolvimento web, 
   />
 
 </p> -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-star525&show_icons=true&theme=blue_navy)
+<img 
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=Miguel-star525&show_icons=true&theme=blue_navy&include_all_commits=true&locale=pt-br"
+/>
+<img 
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-star525&show_icons=true&theme=blue_navy&include_all_commits=true&custom_title=Tecnologias"
+/>
