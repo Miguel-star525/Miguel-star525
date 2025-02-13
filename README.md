@@ -2,18 +2,15 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Caio Miguel Martins Alves, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. 
+Natural de Recife, Pernambuco, sou um entusiasta de tecnologia com foco em desenvolvimento Web. Desde que descobri o mundo da programação, tenho me dedicado a aprender e criar soluções que unem funcionalidade e criatividade. Acredito que a tecnologia tem o poder de transformar ideias em realidade, e é isso que me motiva a continuar evoluindo nessa área.
+
+Atualmente, estou explorando as diversas possibilidades do desenvolvimento web, desde a construção de interfaces intuitivas até a lógica robusta por trás dos sistemas. Meu objetivo é me tornar um desenvolvedor full-stack, capaz de entregar projetos completos e de alta qualidade. 
 
 <div> 
-  <a href="https://www.instagram.com/caiomiguelmartins/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="www.linkedin.com/in/caiomiguelmartins" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href = "mailto:caiomiguel151104@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+  <a href="https://www.instagram.com/caiomiguelmartins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/caiomiguelmartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:caiomiguel151104@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   <!--<a href="https://discord.gg/wagxzStdcR" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a> -->
@@ -144,3 +141,5 @@ Me chamo Caio Miguel Martins Alves, tenho 20 anos e sou natural do Rio Grande do
   />
 
 </p> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-star525&show_icons=true&theme=blue_navy)
