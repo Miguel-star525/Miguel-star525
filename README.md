@@ -151,7 +151,7 @@ Atualmente, estou explorando as diversas possibilidades do desenvolvimento web, 
   />
 
 </p> -->
-<img 
+<!--<img 
   align="left"
   alt="GitHub Stats"
   height="200"
