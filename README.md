@@ -20,7 +20,7 @@ Atualmente, estou explorando as diversas possibilidades do desenvolvimento web, 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -46,6 +46,7 @@ Atualmente, estou explorando as diversas possibilidades do desenvolvimento web, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <!--<img 
     align="left" 
     alt="React"
@@ -62,6 +63,7 @@ Atualmente, estou explorando as diversas possibilidades do desenvolvimento web, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 /> -->
+
 <img 
     align="left" 
     alt="Git" 
@@ -71,6 +73,7 @@ Atualmente, estou explorando as diversas possibilidades do desenvolvimento web, 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+
 <img
   align="left" 
   alt="Python" 
@@ -79,6 +82,35 @@ Atualmente, estou explorando as diversas possibilidades do desenvolvimento web, 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+
+<img 
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+  />
+<!--
+  <img 
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+    />     
+-->
+
+
+<!--<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/> -->
 
 <!--<img 
     align="left" 
@@ -112,46 +144,16 @@ Atualmente, estou explorando as diversas possibilidades do desenvolvimento web, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 /> -->
-<!--<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/> -->
-<!--<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/> -->
+
 
 <br/>
 <br/>
 
-<!--### 📊 Estatísticas
+<!--
+### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
+</p> 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p> -->
-<!--<img 
   align="left"
   alt="GitHub Stats"
   height="200"
@@ -165,3 +167,4 @@ Atualmente, estou explorando as diversas possibilidades do desenvolvimento web, 
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-star525&show_icons=true&theme=blue_navy&include_all_commits=true&custom_title=Tecnologias&layout=donut"
 />
+-->
